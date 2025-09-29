@@ -43,8 +43,8 @@ const Projects = () => {
                     <Technology>React</Technology>
                 </TechnologyWrap>
                 <TechnologyWrap>
-                    <CodeLink href = "https://github.com/shreyash19-pixel/spotify-app" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
-                    <CodeLink href = "https://spotify-app-seven-liard.vercel.app/HomePage" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
+                    <CodeLink href = "https://github.com/Tanvi-1496/spotify" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
+                    <CodeLink href = "https://spotify-two-weld.vercel.app/HomePage" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
                 </TechnologyWrap>
                 </ProjectInfoWrap>
             </ProjectNumber1>
@@ -62,8 +62,8 @@ const Projects = () => {
                     <Technology>React</Technology>
                 </TechnologyWrap>
                 <TechnologyWrap>
-                    <CodeLink href = "https://github.com/shreyash19-pixel/gym-app" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
-                    <CodeLink href = "https://gym-app-jade.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
+                    <CodeLink href = "https://github.com/Tanvi-1496/gym" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
+                    <CodeLink href = "https://gym-gold-xi.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
                 </TechnologyWrap>
                 </ProjectInfoWrap>
                 <ProjectImageCont>
@@ -90,8 +90,8 @@ const Projects = () => {
                     <Technology>React</Technology>
                 </TechnologyWrap>
                 <TechnologyWrap>
-                    <CodeLink href = "https://github.com/shreyash19-pixel/car-rental" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
-                    <CodeLink href = "https://car-rental-three-nu.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
+                    <CodeLink href = "https://github.com/Tanvi-1496/car-rental" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
+                    <CodeLink href = "https://car-rental-mocha-psi.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
                 </TechnologyWrap>
                 </ProjectInfoWrap>
                
@@ -108,8 +108,8 @@ const Projects = () => {
                     <Technology>React</Technology>
                 </TechnologyWrap>
                 <TechnologyWrap>
-                    <CodeLink href = "https://github.com/shreyash19-pixel/crypto-app" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
-                    <CodeLink href = "https://crypto-app-eight-dun.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
+                    <CodeLink href = "https://github.com/Tanvi-1496/crypto" target = "_blank">Code <span><FaGithub/></span> </CodeLink>
+                    <CodeLink href = "https://crypto-peach-chi.vercel.app/" target = "_blank">Live Demo <span><RiExternalLinkLine/></span></CodeLink>
                 </TechnologyWrap>
                 </ProjectInfoWrap>
                 <ProjectImageCont>
