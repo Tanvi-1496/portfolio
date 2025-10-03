@@ -52,7 +52,7 @@ const About = () => {
           <AboutDevsDescWrap>
             <AboutDevsDesc>
               As a Junior Front-End Developer, I bring a strong foundation in
-              HTML, CSS, JavaScript, React, and Redux, with a proven ability to
+              HTML, CSS, JavaScript with a proven ability to
               design and maintain responsive, user-friendly websites. I
               specialize in creating dynamic and engaging interfaces by writing
               clean, optimized code and leveraging modern development tools and

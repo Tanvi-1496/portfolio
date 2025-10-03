@@ -30,11 +30,9 @@ import { FaGithub } from "react-icons/fa";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
-import { FaReact } from "react-icons/fa";
-import { SiRedux } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { FcAndroidOs } from "react-icons/fc";
-import DevsImg from "../../assets/devs-image.png";
+import DevsImg from "../../assets/devs-image.jpeg";
 
 const Hero = () => {
   return (
@@ -57,7 +55,7 @@ const Hero = () => {
             </DevDescWrap>
             <DevsSocialLinksWrap>
               <DevsSocialLinks
-                href="https://www.linkedin.com/in/shreyash-patil-525009220/"
+                href="https://www.linkedin.com/in/tanvi-jaware-93785a36b/"
                 target="_blank"
               >
                 <FaLinkedin />
@@ -88,12 +86,6 @@ const Hero = () => {
             <Js>
               <IoLogoJavascript />
             </Js>
-            <ReactJs>
-              <FaReact />
-            </ReactJs>
-            <Redux>
-              <SiRedux />
-            </Redux>
             <Java>
               <FaJava />
             </Java>

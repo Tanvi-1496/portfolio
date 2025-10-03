@@ -15,7 +15,7 @@ const Footer = () => {
                 </CopyrightDesc>
             </CopyrightWrap>
             <SocialLinksWrap>
-                <SocialLinks href = "https://www.linkedin.com/in/shreyash-patil-525009220/"><FaLinkedin /></SocialLinks>
+                <SocialLinks href = "https://www.linkedin.com/in/tanvi-jaware-93785a36b/"><FaLinkedin /></SocialLinks>
                 <SocialLinks href = "https://github.com/Tanvi-1496?tab=repositories"><FaGithub /></SocialLinks>
             </SocialLinksWrap>
         </FooterWrap>

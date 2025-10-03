@@ -1,5 +1,4 @@
 import styled, { keyframes } from "styled-components";
-import DevsImage from "../../assets/devs-image.png";
 
 export const HeroContainer = styled.div`
   width: 100%;
@@ -139,54 +138,17 @@ export const DevsImgContainer = styled.div`
   }
 `;
 
-const blobAnimation = keyframes`
-  0% {
-    border-radius: 42% 58% 70% 30% / 45% 35% 65% 55%;
-  }
-  50% {
-    border-radius: 65% 35% 30% 70% / 40% 60% 35% 65%;
-  }
-  100% {
-    border-radius: 42% 58% 70% 30% / 45% 35% 65% 55%;
-  }
-`;
-
 export const DevsImgWrap = styled.div`
-  width: 340px;
-  height: 340px;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
 
-  &::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(135deg, #3f47cc, #6f7dff);
-    animation: ${blobAnimation} 8s ease-in-out infinite;
-    z-index: 0;
-  }
-
   img {
-    width: 70%;
-    height: auto;
-    border-radius: 50%;
-    position: relative;
-    z-index: 1;
-  }
-
-  @media (max-width: 1106px) {
-    width: 300px;
-    height: 300px;
-  }
-  @media (max-width: 856px) {
-    width: 260px;
-    height: 260px;
-  }
-  @media (max-width: 360px) {
-    width: 220px;
-    height: 220px;
+    width: 350px; 
+    height: 350px; 
+    border-radius: 50%; 
+    object-fit: cover; 
   }
 `;
 
@@ -239,14 +201,6 @@ export const Css = styled(Html)`
 
 export const Js = styled(Html)`
   color: #e2c430;
-`;
-
-export const ReactJs = styled(Html)`
-  color: #61dbfb;
-`;
-
-export const Redux = styled(Html)`
-  color: #7248b6;
 `;
 
 export const Java = styled(Html)`
